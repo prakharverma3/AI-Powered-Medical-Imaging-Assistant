@@ -1,6 +1,6 @@
 # **AI-Powered Brain MRI Enhancement, Classification & Diagnostic Assistance**
 
-### **Comprehensive README (Content-Rich Edition)**
+### **Comprehensive README **
 
 ## **📌 Project Title:**
 
@@ -24,25 +24,19 @@ The project is based on a series of chapters (1–6) from the research documenta
 
 # **2. Project Objectives**
 
-Derived from *Chapter 1*:
-
 ### **Primary Objectives**
 
-1. Build an **automated system** for identifying tumor categories from MRI images.
-2. Improve diagnostic accuracy by applying **image enhancement techniques** before classification.
-3. Provide a **clinically intuitive interface** for predictions and visual explanations.
+1. Enhance Medical Images – Improve the quality of medical scans by reducing noise, motion artifacts, and poor contrast to make them clearer and easier to interpret. 
 
-### **Secondary Objectives**
+2. Detect Abnormalities Accurately – Use deep learning models to identify potential issues such as tumours or lesions with high precision and reliability. 
 
-* Evaluate and compare multiple classification models (CNN, VGG16, ResNet50, Xception, EfficientNet-B4).
-* Evaluate image enhancement quality using metrics like **PSNR**, **SSIM**, and **MSE**.
-* Create a complete, reproducible ML framework with clear documentation and results.
+3. Provide Explainable AI Results – Integrate explainable AI (XAI) techniques to highlight the exact regions of a scan influencing predictions, building trust and transparency for doctors. 
+
+4. Improve Accessibility and Patient Understanding – Provide a platform through web and mobile applications that not only makes the system widely accessible but also presents results in simple language and visual highlights so even people without medical knowledge can understand their reports. 
 
 ---
 
 # **3. Literature Review Summary**
-
-(*from Chapter 2*)
 
 * Traditional machine learning approaches required **hand-crafted features**, leading to inconsistent performance.
 * Deep CNN-based approaches significantly improved classification due to automatic feature extraction.
@@ -53,8 +47,6 @@ Derived from *Chapter 1*:
 ---
 
 # **4. System Architecture**
-
-(*based heavily on Chapter 3*)
 
 ## **4.1 Pipeline Overview**
 

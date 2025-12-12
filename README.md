@@ -1,5 +1,3 @@
----
-
 # **AI-Powered Brain MRI Enhancement, Classification & Diagnostic Assistance**
 
 ## **📌 Project Title**

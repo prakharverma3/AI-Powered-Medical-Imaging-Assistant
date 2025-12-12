@@ -56,7 +56,7 @@ The system integrates **image enhancement → classification → visualization**
 
 # **6. Detailed Data Processing Pipeline**
 
-![Data Preparation](./workflowImages/Datapreparation.png)
+![Data Preparation](./workflowImages/DataPreparation.png)
 
 ---
 

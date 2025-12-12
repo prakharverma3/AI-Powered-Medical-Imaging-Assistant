@@ -251,30 +251,9 @@ If not found → instructs user to place model file in root directory.
 
 ---
 
-# **11. Repository Structure**
 
-```
-project/
-│
-├── Chapter1.pdf   → Introduction, problem statement
-├── Chapter2.pdf   → Literature survey
-├── Chapter3.pdf   → System design, methodology
-├── Chapter4.pdf   → Testing & evaluation
-├── Chapter5.pdf   → Results & screenshots
-├── Chapter6.pdf   → Conclusions & future scope
-│
-├── gradio_app.py  → Web UI & inference code
-├── enhancement_models.ipynb → DnCNN, EDSR, U-Net
-├── VGG16.ipynb
-├── ResNet50.ipynb
-├── Xception.ipynb
-├── CNN_classification.ipynb
-└── efficientnet_b4.ipynb (implied)
-```
 
----
-
-# **12. How to Use the System**
+# **11. How to Use the System**
 
 ### **Install dependencies**
 
@@ -305,7 +284,7 @@ no_tumor/
 
 ---
 
-# **13. Credits**
+# **12. Credits**
 
 This project aggregates work from:
 
